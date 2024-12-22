@@ -1,0 +1,13 @@
+# Project Specific
+
+node_modules
+tmp
+*.tmp*
+*.log
+.changelog
+coverage
+.nyc_output/
+.env
+*.progress-estimator*
+*.docker-volumes
+dist
